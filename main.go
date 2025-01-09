@@ -20,6 +20,10 @@ func hotfixOK() {
 
 }
 
+func hardHotfix() {
+
+}
+
 func feature5() {
 
 }
