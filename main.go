@@ -31,11 +31,3 @@ func feature5() {
 func feature6() {
 
 }
-
-func feature7() {
-
-}
-
-func feature8() {
-
-}
