@@ -7,3 +7,7 @@ func main() {
 func feature1() {
 
 }
+
+func hotfix() {
+
+}
