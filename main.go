@@ -15,3 +15,7 @@ func feature2() {
 func feature3() {
 
 }
+
+func hotfixOK() {
+
+}
