@@ -23,3 +23,7 @@ func feature4() {
 func hotfix() {
 
 }
+
+func Feature5() {
+
+}
