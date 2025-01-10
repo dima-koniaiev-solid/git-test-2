@@ -15,7 +15,3 @@ func feature2() {
 func feature3() {
 
 }
-
-func feature4() {
-
-}
