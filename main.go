@@ -19,3 +19,7 @@ func feature3() {
 func hotfix() {
 
 }
+
+func hardHotfix() {
+
+}
